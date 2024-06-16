@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: About Me
 gh-repo: daattali/beautiful-jekyll
 comments: true
