@@ -23,7 +23,7 @@ navbar-links:
   Education: "education"
   Experience:
     - Work Experience: "work"
-    - Projects: "https://www.markdowntutorial.com/"
+    - Projects: "projects"
   Author's home: "https://deanattali.com"
 
 ################
