@@ -22,7 +22,7 @@ author: Varada Patil
 navbar-links:
   Education: "aboutme"
   Experience:
-    - Work Experience: "https://beautifuljekyll.com"
+    - Work Experience: "work"
     - Projects: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
