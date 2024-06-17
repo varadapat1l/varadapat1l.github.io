@@ -13,14 +13,14 @@
 title: Varada Patil
 
 # Your name to show in the footer
-#author: Varada Patil
+author: Varada Patil
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Education: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
