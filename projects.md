@@ -11,4 +11,4 @@ _Net Force Calculator Program_
 * Utilizes a 'ForceCalculator' class from an external module to manage force objects
 * Includes an intuitive text-based menu to guide users through available options, as well as stop and start over when necessary
 * Ideal for students, professionals and/or physics enthusiasts who need to perform vector addition of forces, determine force components, and calculate resultant forces
-<img src="/assets/img/netforce3.png" alt="Option 3" style="display: block; margin:0 auto; width:auto; height:200px;"> <img src="/assets/img/netforce4.png" alt="Option 4" style="display: block; margin:0 auto; width:auto; height:200px;"> <img src="/assets/img/netforce5.png" alt="Option 5" style="display: block; margin:0 auto; width:auto; height:200px;">
+<img src="/assets/img/netforce3.png" alt="Option 3" style="display: block; margin:0 auto; width:auto; height:auto;"> <img src="/assets/img/netforce4.png" alt="Option 4" style="display: block; margin:0 auto; width:auto; height:auto;"> <img src="/assets/img/netforce5.png" alt="Option 5" style="display: block; margin:0 auto; width:auto; height:auto;">
