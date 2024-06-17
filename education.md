@@ -13,7 +13,7 @@ Minor: Indian and South Asian Language
 **International Academy West**  
 _Bloomfield Hills, MI_  
 _August 2018-May 2022_  
-IB Diploma
+IB Diploma  
 3.7 GPA  
 
 **Honors**  
