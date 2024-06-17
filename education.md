@@ -18,8 +18,8 @@ IB Diploma
 
 **Honors**  
 MSU Honors College  
-_Dean's Honor List:_  
-    Fall Semester 2022  
-    Spring Semester 2022-23  
-    Fall Semester 2023  
-    Spring Semester 2023-24  
+Dean's Honor List:   
+* Fall Semester 2022  
+* Spring Semester 2022-23  
+* Fall Semester 2023  
+* Spring Semester 2023-24  
