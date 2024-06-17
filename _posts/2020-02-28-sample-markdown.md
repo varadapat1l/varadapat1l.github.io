@@ -5,6 +5,7 @@ gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
 ---
+<img src="/assets/img/me.jpeg" style="display: block; margin:0 auto; width:200px; height:auto;">
 
 I am a junior at Michigan State University, majoring in Computer Science under the College of Engineering, with a minor in Indian and South Asian Languages. 
 
