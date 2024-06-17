@@ -9,5 +9,5 @@ _Color Clash Mobile Game_
 _Net Force Calculator Program_  
 * Created an interactive application using Python that is designed to compute forces in a two-dimensional plane
 * Utilizes a 'ForceCalculator' class from an external module to manage force objects
-* Includes an intuitive text-based menu to guide users through available options
-* Ideal for students and/or physics enthusiasts who need to perform vector addition of forces and determine resultant forces for various applications
+* Includes an intuitive text-based menu to guide users through available options, as well as stop and start over when necessary
+* Ideal for students, professionals and/or physics enthusiasts who need to perform vector addition of forces, determine force components, and calculate resultant forces
