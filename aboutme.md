@@ -17,7 +17,7 @@ _August 2018-May 2022_
 
 **Honors**  
 MSU Honors College  
-Dean's Honor List:  
+<u>Dean's Honor List:  <u>
     Fall Semester 2022  
     Spring Semester 2022-23  
     Fall Semester 2023  
