@@ -20,7 +20,7 @@ author: Varada Patil
 ###############################################
 
 navbar-links:
-  Education: "aboutme"
+  Education: "education"
   Experience:
     - Work Experience: "work"
     - Projects: "https://www.markdowntutorial.com/"
