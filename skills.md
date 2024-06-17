@@ -11,6 +11,6 @@
 * Telugu (Proficient)
 
 **Other**
-* Microsoft Word/Excel (Proficient)
+* Microsoft Word/Excel/Powerpoint (Proficient)
 * Git (Intermediate)
 
