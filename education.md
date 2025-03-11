@@ -6,7 +6,7 @@ title: Education
 **Michigan State University, College of Engineering**  
 _East Lansing, MI_  
 _August 2022-May 2026_  
-Bachelor of Science: Computer Science  
+Major: Bachelor of Science in Computer Science
 Minor: Indian and South Asian Language  
 3.8 GPA 
 
