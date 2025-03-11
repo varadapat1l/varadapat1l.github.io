@@ -1,16 +1,17 @@
 **Programming**
 * Python (Proficient)
-* C++ (Intermediate)
+* C++ (Proficient)
 * R (Intermediate)
+* SQL (Intermediate)
 
 
 **Languages**
 * English (Native)
-* Hindi (Fluent)
-* Marathi (Fluent)
+* Hindi (Proficient)
+* Marathi (Proficient)
 * Telugu (Proficient)
 
 **Other**
 * Microsoft Word/Excel/Powerpoint (Proficient)
-* Git (Intermediate)
+* Git (Proficient)
 
