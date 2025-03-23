@@ -23,8 +23,8 @@ _Crossword Puzzle_
 <img src="/assets/img/crossword4.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 <img src="/assets/img/crossword5.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 
-**Computer Systems**
-_Processing Project_
+**Computer Systems**  
+_Processing Project_  
 * Designed a program that simulates the behavior of a 5-state processing model, in which the OS kernel handles the execution of a set of processes using a single CPU core
 * Created data structures representing Ready, Blocked, and Running states
 * Simulated execution of instructions for the process that is running in each clock cycle
