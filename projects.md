@@ -22,3 +22,40 @@ _Crossword Puzzle_
 <img src="/assets/img/crossword3.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 <img src="/assets/img/crossword4.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 <img src="/assets/img/crossword5.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+
+**Computer Systems**
+_Processing Project_
+* Designed a program that simulates the behavior of a 5-state processing model, in which the OS kernel handles the execution of a set of processes using a single CPU core
+* Created data structures representing Ready, Blocked, and Running states
+* Simulated execution of instructions for the process that is running in each clock cycle
+Process 1:
+<img src="/assets/img/process1.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Process 2:
+<img src="/assets/img/process2.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Process 3:
+<img src="/assets/img/process3.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Output:
+<img src="/assets/img/processoutput.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+
+_Multi Threading Project_
+* Implemented a program that simulates a producer-consumer system of a company using concurrent execution of an N number of producer threads and a single consumer thread
+* Inputted the contents of the old inventory and built a data structure representing the current inventory
+* Built a data structure representing the sequence of purchase orders
+* Processed a series of customer orders using a bounded buffer and added the outputs to a newly created file
+* Focused on multi-threaded programming in a Linux environment
+Old Inventory:
+<img src="/assets/img/oldinventory.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order 1:
+<img src="/assets/img/order1.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order 2:
+<img src="/assets/img/order2.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order 3:
+<img src="/assets/img/order3.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order 4:
+<img src="/assets/img/order4.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order 5:
+<img src="/assets/img/order5.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+Order Processing Output:
+<img src="/assets/img/orderprocessing.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+New Inventory:
+<img src="/assets/img/newinventory.png" style="display: block; margin:0 auto; width:200px; height:auto;">
