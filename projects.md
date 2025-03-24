@@ -27,7 +27,7 @@ _Crossword Puzzle_
 _Processing Project_  
 * Designed a program that simulates the behavior of a 5-state processing model, in which the OS kernel handles the execution of a set of processes using a single CPU core
 * Created data structures representing Ready, Blocked, and Running states
-* Simulated execution of instructions for the process that is running in each clock cycle
+* Simulated execution of instructions for the process that is running in each clock cycle  
 Process 1:
 <img src="/assets/img/process1.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 Process 2:
@@ -42,7 +42,8 @@ _Multi Threading Project_
 * Inputted the contents of the old inventory and built a data structure representing the current inventory
 * Built a data structure representing the sequence of purchase orders
 * Processed a series of customer orders using a bounded buffer and added the outputs to a newly created file
-* Focused on multi-threaded programming in a Linux environment
+* Focused on multi-threaded programming in a Linux environment  
+
 Old Inventory:
 <img src="/assets/img/oldinventory.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 Order 1:
