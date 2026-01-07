@@ -1,4 +1,4 @@
-**Service Center Representative at Michigan State University**
+**Service Center Representative at Michigan State University**  
 _East Lansing, MI_
 _April 2025-Current_
 * Act as the primary customer support contact, assisting residents with account issues, access needs, and service requests
