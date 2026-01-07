@@ -1,3 +1,10 @@
+**Service Center Representative at Michigan State University**
+_East Lansing, MI_
+_April 2025-Current_
+* Act as the primary customer support contact, assisting residents with account issues, access needs, and service requests
+* Maintain organized records, perform front-office administrative tasks, process and track physical assets (access cards, keys, packages), ensuring accuracy and compliance with security procedures
+* Communicate clearly and consistently with residents via phone, email, and in-person interactions, often handling multiple inquiries simultaneously while providing accurate updates and information
+
 **Starbucks**    
 _South Lyon, MI; East Lansing, MI_  
 _July 2021-February 2022; October 2022-September 2023_   
