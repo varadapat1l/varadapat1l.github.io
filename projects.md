@@ -5,6 +5,10 @@ _SQL/Python Indian Cities Air Pollution_
 * Integrated SQL queries directly into Python for automated data retrieval, analysis, and visualization using Pandas
 * Applied correlation matrix and multiple linear regression models using Python to determine the most influential factors contributing to pollution levels
 * Created a report delivering insights into long-term pollution trends and presented a technical demo showcasing database design, query logic, and model performance
+<img src="/assets/img/schema.png" style="display: block; margin:0 auto; width:200px; height:auto;"> 
+<img src="/assets/img/avgfactors.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+<img src="/assets/img/cormatrix.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+<img src="/assets/img/linearreg.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 
 _Python Housing Data Analysis and Prediction_
 * Analyzed and cleaned California housing data (15K+ samples) using Python to identify correlations between income, population, and location-based factors
