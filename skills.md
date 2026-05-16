@@ -1,9 +1,20 @@
 **Programming**
-* Python (Proficient)
-* C++ (Proficient)
-* R (Intermediate)
-* SQL (Intermediate)
+* Python
+* C++
+* SQL
+* CSS
+* R
 
+**Frameworks and Tools**
+* Microsoft Office Suit
+* Git
+* FastAPI
+* React
+* SQLite
+* Docker
+* NumPy
+* Pandas
+* PyTorch
 
 **Languages**
 * English (Native)
@@ -11,7 +22,4 @@
 * Marathi (Proficient)
 * Telugu (Proficient)
 
-**Other**
-* Microsoft Word/Excel/Powerpoint (Proficient)
-* Git (Proficient)
 
