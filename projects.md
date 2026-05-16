@@ -6,6 +6,11 @@ _Visualizing Nuclear in Michigan_
 * Integrated REST API services using FastAPI with a React frontend to support real-time system interactions
 * Implemented and evaluated regression models to predict electricity prices from energy mix data
 * Used Git-based workflows for collaborative development and version control
+<img src="/assets/img/homepage.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+<img src="/assets/img/impact.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+<img src="/assets/img/innovation.png" style="display: block; margin:0 auto; width:200px; height:auto;">
+<img src="/assets/img/future.png" style="display: block; margin:0 auto; width:200px; height:auto;"> 
+
 
 
 
