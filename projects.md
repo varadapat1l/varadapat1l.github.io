@@ -1,3 +1,14 @@
+**Full Stack**  
+_Visualizing Nuclear in Michigan_
+* Developed a web application with 5 team members for Anthorpocene Institute to model Michigan energy market scenarios
+* Built responsive React UI components and interactive data visualization
+* Developed Python data-processing pipelines using Pandas to clean, transform, and validate multi-year energy datasets
+* Integrated REST API services using FastAPI with a React frontend to support real-time system interactions
+* Implemented and evaluated regression models to predict electricity prices from energy mix data
+* Used Git-based workflows for collaborative development and version control
+
+
+
 **Data Analytics Projects**  
 _SQL/Python Indian Cities Air Pollution_
 * Designed and implemented a SQLite relational database to store and manage air pollution and weather data for 500+ Indian cities
