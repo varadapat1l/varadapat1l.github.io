@@ -4,17 +4,19 @@ title: Education
 ---
 
 **Michigan State University, College of Engineering**  
-_East Lansing, MI_  
-_August 2022-May 2026_  
-Major: Bachelor of Science, Computer Science  
-Minor: Indian and South Asian Language  
-3.8 GPA 
+East Lansing, MI  
+August 2022-May 2026   
+B.S. Computer Science   
+Minor: Indian and South Asian Studies  
+GPA: 3.81 
 
-**Honors**  
-MSU Honors College  
-Dean's Honor List:
-* Fall Semester 2022  
-* Spring Semester 2023  
-* Fall Semester 2023  
-* Spring Semester 2024
-* Fall Semester 2024
+_Honors_   
+* MSU Honors College  
+* Dean's Honor List 2022-2026  
+* Hindi Outstanding Graduating Senior Award  
+* Joshi Scholarship  
+* Foreign Language and Area Studies Fellowship  
+
+**University of Michigan, School of Information**  
+Ann Arbor, MI  
+M.S. Applied Data Science  
