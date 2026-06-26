@@ -15,6 +15,7 @@
 * NumPy
 * Pandas
 * PyTorch
+* Microsoft Azure
 
 **Languages**
 * English (Native)
