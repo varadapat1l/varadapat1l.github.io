@@ -1,10 +1,11 @@
 **Full Stack**  
 _Visualizing Nuclear in Michigan_
-* Developed a web application with 5 team members for Anthorpocene Institute to model Michigan energy market scenarios
+* Developed a web application with 5 team members for Anthropocene Institute to model Michigan energy market scenarios
 * Built responsive React UI components and interactive data visualization
 * Developed Python data-processing pipelines using Pandas to clean, transform, and validate multi-year energy datasets
 * Integrated REST API services using FastAPI with a React frontend to support real-time system interactions
 * Implemented and evaluated regression models to predict electricity prices from energy mix data
+* Utilized CSS and React.js for interactive trivia page front-end development
 * Used Git-based workflows for collaborative development and version control
 <img src="/assets/img/homepage.png" style="display: block; margin:0 auto; width:200px; height:auto;">
 <img src="/assets/img/impact.png" style="display: block; margin:0 auto; width:200px; height:auto;">
